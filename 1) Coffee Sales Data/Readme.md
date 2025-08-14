@@ -42,7 +42,7 @@ The dashboard displays multiple insights showing sales outcomes, profit margin, 
 
 - Identity Overall Franchise Performance.
 - Determine shops contributions to sales and profits.
-- Monitor the Customer Perfernces and Behaviour
+- Monitor the Customer Perferences and Behaviour
 - Provide data-driven insights for strategic planning.
 
 ---
@@ -93,6 +93,7 @@ A clean and well-structured dataset with organized records.
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+
 
 
 
