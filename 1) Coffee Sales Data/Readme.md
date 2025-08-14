@@ -51,7 +51,7 @@ The dashboard displays multiple insights showing sales outcomes, profit margin, 
 
 - Microsoft Excel features used :
     - Pivot Table ( Data Aggregation)
-    - Pivot Chats ( Data Visualization )
+    - Pivot Charts ( Data Visualization )
     - Slicers ( Data Filtering)
     - Table Structure ( Data Automation )
     - Basic Function ( Calculation & Transformation )
@@ -93,6 +93,7 @@ A clean and well-structured dataset with organized records.
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+
 
 
 
