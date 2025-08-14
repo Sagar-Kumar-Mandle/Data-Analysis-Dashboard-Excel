@@ -14,9 +14,11 @@
 ---
 
 ## Overview
+<p align="justify">
 An interactive Excel Dashboard project that displays sales, cost of goods, profit, and customers for a Coffee Shop Enterprise. The Datasets provide a transaction record for every franchise shop, containing the period, category, price, quantity, and revenue.
 
 The dashboard displays multiple insights showing sales outcomes, profit margin, and customer purchasing patterns. This interactive story will help management make precise decisions for the future of the Coffee Shop Franchise.
+</p>
 
 ## Sheet Details
 
@@ -91,3 +93,4 @@ A clean and well-structured dataset with organized records.
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-mandle-7086ba366)  
+
