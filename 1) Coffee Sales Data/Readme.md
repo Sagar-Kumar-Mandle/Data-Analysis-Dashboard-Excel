@@ -92,7 +92,8 @@ A clean and well-structured dataset with organized records.
 **Sagar Kumar Mandle**   
 📧 Email: sagarmandle11135@gmail.com 
 
-🔗 a href="https://www.linkedin.com/in/sagar-kumar-mandle-mandle-7086ba366/">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/sagar-kumar-mandle-mandle-7086ba366/">LinkedIn</a>
+
 
 
 
