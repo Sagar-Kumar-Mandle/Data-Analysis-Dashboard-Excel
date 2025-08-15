@@ -28,6 +28,8 @@ This Excel contains yearly employee performance records. With these data, we can
 - Total Sales, Total Calls, Total Calls Reached, and Total Deals Closed.
 - Revenue generated per month. 
 - Average Call Duration & Average Call Drop Rate per month.
+
+**Dashboard** - A Visual Representation of Data Insights.
    
 ---
 
@@ -89,4 +91,5 @@ A clean and well-structured dataset with organized records.
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-mandle-7086ba366)  
+
 
