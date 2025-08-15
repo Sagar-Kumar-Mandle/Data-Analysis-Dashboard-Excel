@@ -80,6 +80,8 @@ A clean and well-structured dataset with organized records.
 ## Dashboard
 ![Dashboard Preview](Image/dashboard.png)
 
+---
+
 ## How to Run This Project
 1. Open the Dashboard file in MS Excel.
 2. Use Slicer to filter data by
@@ -98,6 +100,7 @@ A clean and well-structured dataset with organized records.
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+
 
 
 
