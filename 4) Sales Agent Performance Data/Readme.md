@@ -29,12 +29,6 @@ This Excel contains yearly employee performance records. With these data, we can
 - Revenue generated per month. 
 - Average Call Duration & Average Call Drop Rate per month.
    
-**Dashboard** - A Visual Representation of Data Insights.
-- Interactive Slicers help users filter the pivot data easily.
-- KPI Charts highlight essential data metrics.
-- Show each employee's contribution to the business.
-- Track monthly call trends for better company monitoring.
-
 ---
 
 ## Business Problem
@@ -95,3 +89,4 @@ A clean and well-structured dataset with organized records.
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-mandle-7086ba366)  
+
