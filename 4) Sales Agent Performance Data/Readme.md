@@ -27,7 +27,7 @@ This Excel contains yearly employee performance records. With these data, we can
 **Pivot** -  Usage of the Pivot table to create aggregated data. 
 - Total Sales, Total Calls, Total Calls Reached, and Total Deals Closed.
 - Revenue generated per month. 
-- Average Call Duration & Average Call Drop Rate per month..
+- Average Call Duration & Average Call Drop Rate per month.
    
 **Dashboard** - A Visual Representation of Data Insights
 - Interactive Slicers help users filter the pivot data easily.
@@ -94,3 +94,4 @@ A clean and well-structured dataset with organized records.
 **Sagar Kumar Mandle**   
 📧 Email: sagarmandle11135@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-mandle-7086ba366)  
+
