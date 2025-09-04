@@ -65,7 +65,7 @@ A clean and well-structured dataset with organized records.
 
 - Deal Closed: 32.36% of calls resulted in a successful deal.
 - Revenue: Each month, the business generates $ 42,000 in revenue.
-- Gender Representation - 70% working force in the call centre is Female.
+- Gender Representation - 70% working force in the call centre is Male.
 - Employee Performance:
     - David, Paul, and Will had the lowest sales contribution, each accounting for less than 1% of total sales.
     - van, Ian, and Mimi were the top performers, each contributing around 9% of total sales.
@@ -94,6 +94,7 @@ A clean and well-structured dataset with organized records.
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+
 
 
 
